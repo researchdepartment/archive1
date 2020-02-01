@@ -12,4 +12,4 @@ sexy-mirc.txt - hellmoo sex commands for mirc
 
 system32.lua - part of a gmod9 worm, archived for the sake of archival
 
-racehook6.lua - gmod9 worm, archived for the sake of archiva
+racehook6.lua - gmod9 worm, archived for the sake of archival
