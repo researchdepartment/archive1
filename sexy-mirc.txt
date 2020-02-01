@@ -1,0 +1,52 @@
+/rape1 {
+  if($1)
+  /me grabs $1 and pins their arms behind their back! $+
+  .timer 1 1 /me laughs as $1 gasps for air as $me grabs them and shoves a dripping erection unexpectedly between $1's lips. $+
+  .timer 1 2 /me slowly fucks $1's upturned face, slamming his dick into $1's throat. $+
+  .timer 1 3 /me flips $1 over and shoves his dick into $1's ass. $+
+  .timer 1 4 /me slowly fucks $1 in the ass, slamming his dick in hard while $1 squeals $+
+  .timer 1 5 /me giggles while $1 struggles as $me grabs them and shoves his fingers into their ass. $+
+  .timer 1 6 /me slides his fingers in and out of $1's ass. $+
+  .timer 1 7 /me gasps and moans as they orgasm on $1, pushing $1 down and leaving them there.
+}
+/rape2 {
+if($1)
+/me smiles, and pulls $1 close, while they struggle to escape.
+.timer 1 1 /me slowly rubs $1's genitals while fingering her own.
+.timer 1 2 /me smiles at $1 panicking as $me grabs $1 and forces her to kneel.
+.timer 1 3 /me forces $1 face against her pussy, making $1 lick her dripping wet cunt.
+.timer 1 4 /me smirks as $1 struggles to get away as $me grabs $1 and pushes them down.
+.timer 1 5 /me slides her fingers in and out of $1's ass.
+.timer 1 6 /me gasps and moans as they orgasm on $1, pushing $1 down and leaving them there.
+}
+/sex1 {
+if($1)
+/me grabs $1 and pulls them close, starting to play with them sexually.
+.timer 1 1 /me sucks $1's cock.
+.timer 1 2 /me slowly fucks $1's ass, slamming his dick hard.
+.timer 1 3 /me slides his fingers in and out of $1's ass.
+.timer 1 4 /me begins to rub $1's genitals.
+.timer 1 5 /me gasps and moans as they orgasm together, both dropping down to relaxation.
+}
+/sex2 {
+if($1)
+/me grabs $1 and pulls them close, starting to play with them sexually.
+.timer 1 1 /me gently rubs $1's genitals while fingering her pussy.
+.timer 1 2 /me begins to lick $1's dripping pussy.
+.timer 1 3 /me slides her fingers in and out of $1's ass.
+.timer 1 4 /me begins to rub $1's genitals.
+.timer 1 5 /me bites down gently on $1's nipples, making them moan.
+.timer 1 6 /me gasps and moans as they orgasm together, both dropping down to relaxation.
+}
+/masturbate1 {
+if($1)
+/me sighs, their eyes glaze over as he expertly strokes his aroused prong.
+.timer 1 1 /me groans and pauses, just barely stroking his dick.
+.timer 1 2 /me moans and shoots a watery spurt of semen onto $1.
+}
+/masturbate2 {
+if($1)
+/me finger-fucks her pussy.
+.timer 1 1 /me fingers deep into her cunt, reaching for the g-spot.
+.timer 1 2 /me shudders and moans, drawing out her orgasm onto $1, varying the speed of her finger movements to maximize the waves of pleasure.
+}
